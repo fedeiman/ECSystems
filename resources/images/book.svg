@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   x="0"
+   y="0"
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg2"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="book.svg">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-186.50172 : -113.48454 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="529.5945 : 168.02749 : 1"
+       inkscape:persp3d-origin="268.31615 : -365.96563 : 1"
+       id="perspective3002" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="9.7977164"
+     inkscape:cx="26.726344"
+     inkscape:cy="3.9805194"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <title
+     id="title4">book icon</title>
+  <desc
+     id="desc6">book icon from the IconExperience.com G-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+  <g
+     id="g8"
+     transform="translate(0,-496)">
+    <g
+       id="g3018"
+       transform="matrix(0.03333333,0,0,0.03333333,1.4891003,494.96129)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#2d95d2;fill-opacity:1"
+         id="path10"
+         d="m 390.32701,63.161445 c 0,138.649995 0,277.349995 0,415.999995 0,17.6 -14.4,32 -32,32 l -272.000001,0 c -35.249999,0 -63.999999,-28.75 -63.999999,-64 l 0,-351.999995 c 0,-35.25 28.75,-64 63.999999,-64 l 272.000001,0 c 17.6,0 32,14.4 32,32 z" />
+      <path
+         style="fill:#135c7e;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path20"
+         d="m 48.32701,31.161445 31.999999,0 0,479.999995 -31.999999,0 c -26.45,0 -48.00000007,-21.55 -48.00000007,-48 l 0,-383.999995 c 0,-26.45 21.55000007,-48 48.00000007,-48 z" />
+    </g>
+  </g>
+</svg>

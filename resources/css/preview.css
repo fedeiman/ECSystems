@@ -1,0 +1,61 @@
+.INSERTED {
+    background-color: #8efe5d;
+}
+
+.UPDATED {
+    background-color: #fdf636;
+}
+
+.fulltext-highlight {
+    background-color: yellow;
+}
+
+.DELETED {
+    background-color: #f35555;
+}
+
+.not-translated {
+    background-color: #f0f0f0;
+}
+
+.media-theme.INSERTED {
+    border: 4px solid #8efe5d !important;
+}
+
+.media-theme.DELETED {
+    border: 4px solid #f35555;
+}
+
+.preview .filter, .preview td.filter, .preview .metafilter, .preview td.metafilter {
+    border: 2px solid yellow;
+}
+
+.preview .media-theme-inline.filter, .preview .media-theme-inline.metafilter {
+    display: inline-block;
+}
+
+.preview tr.filter td, .preview tr.metafilter td {
+    border: 2px solid yellow;
+}
+
+
+.merge-conflict {
+    border: 2px dashed red;
+}
+
+.merge-conflict-elem {
+    border: 2px dashed red;
+}
+
+.merge-conflict-resolved {
+    border: 2px solid transparent;
+}
+
+.merge-conflict-elem-selector {
+    width: 16px;
+    height: 16px;
+    background: url(../icons/select-elem.png) no-repeat center center;
+    cursor: pointer;
+    position: absolute;
+    margin-left: -22px;
+}

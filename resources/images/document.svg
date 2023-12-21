@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="98.714287" height="139.33571" id="svg2">
+  <defs id="defs4" />
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g transform="translate(-26.357181,-15.551469)" id="layer1">
+    <g transform="matrix(0.64519141,0,0,0.58217686,11.351654,3.0862123)" id="layer1-0">
+      <g transform="matrix(4.78125,0,0,5.6984694,-14.992519,4.3160528)" id="g3029">
+        <polygon points="40,13 40,45 8,45 8,3 30,3 " id="polygon3009" style="fill:#90caf9" />
+        <polygon points="38.5,14 29,14 29,4.5 " id="polygon3011" style="fill:#e1f5fe" />
+        <g id="g3013" style="fill:#1976d2">
+          <rect width="17" height="2" x="16" y="21" id="rect3015" />
+          <rect width="13" height="2" x="16" y="25" id="rect3017" />
+          <rect width="17" height="2" x="16" y="29" id="rect3019" />
+          <rect width="13" height="2" x="16" y="33" id="rect3021" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

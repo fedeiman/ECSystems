@@ -1,0 +1,262 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de">
+<head>
+    <title>Full text search</title>
+    <meta content="IE=EDGE" http-equiv="x-ua-compatible" />
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <style type="text/css">
+        body {
+            font-family: Tahoma;
+            font-size: 11px;
+        }
+        .content-table-noborder {table-layout:fixed;width:100%;}
+        table td {font-size:1em;}
+        .notice-title {font-weight:bold;}
+        h1,h2,h3,h4 {font-size:11px;}
+        h1 {font-size:16px;margin-top:3px;}
+        h2 {font-size:13px;}
+    </style>
+</head>
+<body class="singleBlock">
+    <h1>Help for full text search</h1>
+    <div class="main_block_container">
+        <div class="block-container ">
+            <div class="block-ct noteCSS" smcid="N100F4">
+                <div class="Standard">
+                    <p class="par0 noteCSS" smcid="N10107">
+                        For quick and easy searches you can use the standard search. Tap
+                        enter your search term in the input field and press the Enter key.
+                        Upper and lower case of the search terms is not considered in the search.
+                    </p>
+                    <p class="par0 noteCSS" smcid="N1010C">
+                        For the advanced search you can use the phrase search, the <a href="#operators">logical operators</a> AND, OR and
+                        NOT and the <a href="#placeholder">placeholders</a> * and ?
+                    </p>
+                    <p class="par0 noteCSS" smcid="N10111">
+                    </p>
+                </div>
+            </div>
+            <div class="block-ct noteCSS" smcid="N10115">
+                <div class="Standard">
+                    <h2><a name="placeholder" />Placeholder</h2>
+                    <p class="par0 noteCSS" smcid="N1012A">
+                        You can use wildcards to generalize or extend the search queries. So
+                        you can, for example, also find documents, the beginning of a shift, when searching for shift*,
+                        Shift number, shift information, etc. Even if you are working on
+                        are not sure of the spelling of a word or the exact name of a
+                        term, you can use the placeholders, e.g. System*administration
+                        for system component administration.
+                    </p>
+                    <ul>
+                    <li>The use of * means that after any character string instead of the placeholder is searched for.
+                    </li>
+                    <li>The use of ? has the effect that after any character instead of the placeholder is searched for.	
+                    </li></ul>
+                    <br />
+                    <div class="container-warning noteCSS" smcid="N1013A">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr>
+                                <td valign="top" width="50px">
+                                    <div class="container-warning-icon">
+                                        <img height="40" src="../../images/Advice.gif"
+                                            width="40" /></div>
+                                </td>
+                                <td>
+                                    <div class="warning-notice_Advice">
+                                        <div class="warning-notice">
+                                            <div class="notice-title">
+                                                Notice</div>
+                                            <p class="par0 noteCSS" smcid="N10141">
+                                                Wildcards can only be placed at the end or within an expression, but not
+                                                at the beginning of a search term.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <br />
+                    <a name="N10146"></a>
+                    <table border="0" cellspacing="0" class="content-table-noborder">
+                        <col width="10%" />
+                        <col width="90%" />
+                        <tr>
+                            <td class="" style="" title="" valign="top">
+                                <div class="par0 container-content-table_Normal">
+                                    <div class="par-table noteCSS" smcid="N1015D">
+                                        ?</div>
+                                </div>
+                            </td>
+                            <td class="" style="" title="" valign="top">
+                                <div class="par0 container-content-table_Normal">
+                                    <div class="par-table noteCSS" smcid="N10163">
+                                        Placeholder for a single character: Syst?m searches for all expressions with a
+                                        any character instead of ?.
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="" style="" title="" valign="top">
+                                <div class="par0 container-content-table_Normal">
+                                    <div class="par-table noteCSS" smcid="N1016A">
+                                        *
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="" style="" title="" valign="top">
+                                <div class="par0 container-content-table_Normal">
+                                    <div class="par-table noteCSS" smcid="N10170">
+                                        Placeholder for several characters: complete* searches for all expressions with
+                                        one or more arbitrary characters instead of * (complete check, completeness check
+                                        etc.).
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="" style="" title="" valign="top">
+                                <div class="par0 container-content-table_Normal">
+                                    <div class="par-table noteCSS" smcid="N101B9">
+                                        ~</div>
+                                </div>
+                            </td>
+                            <td class="" style="" title="" valign="top">
+                                <div class="par0 container-content-table_Normal">
+                                    <div class="par-table noteCSS" smcid="N101BA">
+                                        Wildcard for fuzzy search: User~ searches for all expressions that match the
+                                        search term are similar or their spelling does not match exactly with the spelling
+                                        of the search term matches.</div>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                    <br />
+                </div>
+            </div>
+            <div class="block-ct noteCSS" smcid="N1019C">
+                <div class="Standard">
+                    <h2><a name="operators" />Logical operators</h2>
+                    <p class="par0 noteCSS" smcid="N101B1">
+                        Several search terms can be connected by logical operators. Logical
+                        Operators can be used to specify or restrict the search.
+                    </p>
+                    <div class="container-warning noteCSS" smcid="N101B6">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr>
+                                <td valign="top" width="50px">
+                                    <div class="container-warning-icon">
+                                        <img height="40" src="../../images/Advice.gif"
+                                            width="40" /></div>
+                                </td>
+                                <td>
+                                    <div class="warning-notice_Advice">
+                                        <div class="warning-notice">
+                                            <div class="notice-title">
+                                                Notice</div>
+                                            <p class="par0 noteCSS" smcid="N101BD">
+                                                When typing the logical operators, you must use CAPITAL LETTERS,
+                                                so AND, OR and NOT.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <br />
+                    <a name="N101C2"></a>
+                    <table border="0" cellspacing="0" class="content-table-noborder">
+                        <col width="10%" />
+                        <col width="90%" />
+                        <tr>
+                            <td class="" style="" title="" valign="top">
+                                <div class="par0 container-content-table_Normal">
+                                    <div class="par-table noteCSS" smcid="N101D9">
+                                        OR</div>
+                                </div>
+                            </td>
+                            <td class="" style="" title="" valign="top">
+                                <div class="par0 container-content-table_Normal">
+                                    <div class="par-table noteCSS" smcid="N101DF">
+                                        Non-exclusive OR operation. You do not have to create this link separately.
+                                        enter. It is always used if the search terms are entered without a link
+                                        become. This operator finds documents, in which only one or also
+                                        any combination of the search terms or phrases. Example: Search
+                                        for documents in which either the printout Start Application or Help appears
+                                        shall: "Start application" OR Help.</div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="" style="" title="" valign="top">
+                                <div class="par0 container-content-table_Normal">
+                                    <div class="par-table noteCSS" smcid="N101E6">
+                                        AND</div>
+                                </div>
+                            </td>
+                            <td class="" style="" title="" valign="top">
+                                <div class="par0 container-content-table_Normal">
+                                    <div class="par-table noteCSS" smcid="N101EC">
+                                        If you are looking for documents in which several search terms must occur,
+                                        use the AND operator. Alternatively, a "+" sign before each expression
+                                        can be inserted. In this case, only documents are found which all start with AND
+                                        contain linked terms. Example: Search for documents in which the expressions
+                                        Sales and export statistics should occur simultaneously, e.g. sales AND "Export
+                                        Statistics"; or +sales+ "Export Statistics";
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="" style="" title="" valign="top">
+                                <div class="par0 container-content-table_Normal">
+                                    <div class="par-table noteCSS" smcid="N101F3">
+                                        NOT</div>
+                                </div>
+                            </td>
+                            <td class="" style="" title="" valign="top">
+                                <div class="par0 container-content-table_Normal">
+                                    <div class="par-table noteCSS" smcid="N101F9">
+                                        If you want to exclude search terms from the search, use the operator
+                                        NOT. Alternatively, a "-" sign can be inserted before each expression. Example:
+                                        Search for documents containing the expressions Statistics and Accounting
+                                        but not the Transactions printout, e.g. Statistics AND Subledger
+                                        NOT entries or +Statistics+Accounting-Transactions.
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                    <br />
+                    <div class="container-warning noteCSS" smcid="N1021C">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr>
+                                <td valign="top" width="50px">
+                                    <div class="container-warning-icon">
+                                        <img height="40" src="../../images/Advice.gif"
+                                            width="40" /></div>
+                                </td>
+                                <td>
+                                    <div class="warning-notice_Advice">
+                                        <div class="warning-notice">
+                                            <div class="notice-title">
+                                                Notice</div>
+                                            <p class="par0 noteCSS" smcid="N10223">
+                                                The operator NOT can only be used in connection with more than one expression!
+                                                Example: NOT system is not a valid search query.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <br />
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

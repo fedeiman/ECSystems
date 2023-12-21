@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   x="0"
+   y="0"
+   width="512"
+   height="512"
+   version="1.1"
+   viewBox="0 0 512 512"
+   id="svg30"
+   sodipodi:docname="nav_home.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="203.9322"
+     inkscape:cy="256"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g28" />
+  <title
+     id="title2">home lock icon</title>
+  <desc
+     id="desc4">home lock icon from the IconExperience.com G-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+  <g
+     id="g28">
+    <polygon
+       points="64,248.9 256,64 448,248.9 448,496 64,496"
+       fill="#ebedef"
+       id="polygon6"
+       style="fill:#cdd7db;fill-opacity:1" />
+    <path
+       d="M9.4,281.35l240.95,-240.95c3.1,-3.1 8.2,-3.1 11.3,0l241,240.95l-22.65,22.65l-224,-224l-224,224z"
+       id="path10"
+       fill="#546e7a" />
+    <polygon
+       points="32,480 480,480 480,512 32,512"
+       fill="#8fa3ad"
+       id="polygon14"
+       style="fill:#788f9b;fill-opacity:1" />
+  </g>
+</svg>

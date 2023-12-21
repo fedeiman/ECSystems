@@ -1,0 +1,1 @@
+var helpindexXml = '<Index xmlns=\"\"><P hideIcon=\"true\" id=\"term-N10CAE\" is=\"term\" t=\"extraordinary word\"><MenuItem p=\"data\/paragraphsan.html\" t=\"Paragraphs and inline elements\"\/><\/P><\/Index>';

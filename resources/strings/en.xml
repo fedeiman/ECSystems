@@ -1,0 +1,14 @@
+<Translation>
+	<Translate ID="smc.content">Content</Translate>
+	<Translate ID="smc.complete.search.alt">search results. You can get to the search result list by pressing the "Tab" key. Press ALT-S to jump back to the search text field. Press ALT-W to go back to the search result list after opening a search result page. Press ALT-W again to close the search result list.</Translate>
+	<Translate ID="smc.refresh">Refresh</Translate>
+	<Translate ID="smc.opentab">Open in tab</Translate>
+	<Translate ID="smc.search">Search</Translate>
+	<Translate ID="smc.search.help">Search help</Translate>
+	<Translate ID="smc.search.options">Search term</Translate>
+	<Translate ID="smc.search.start">Start</Translate>
+	<Translate ID="smc.search.results">Search result</Translate>
+	<Translate ID="smc.search.counter">Search counter</Translate>
+	<Translate ID="smc.index">Index</Translate>
+	<Translate ID="smc.print">Print</Translate>
+</Translation>

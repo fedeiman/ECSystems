@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   style="clip-rule:evenodd;fill-rule:nonzero;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   id="svg3733"
+   version="1.1"
+   viewBox="0 0 4466.4999 3981.0001"
+   height="398.10001"
+   width="446.64999"
+   xml:space="preserve"><metadata
+   id="metadata3739"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>window_warning icon</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3737" />
+	<title
+   id="title3727">window_warning icon</title>
+	<desc
+   id="desc3729">window_warning icon from the IconExperience.com O-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path
+   style="fill:#252525"
+   d="m 2508.25,160 1914,3340 c 59,102 59,219 0,321 -58,102 -158,160 -275,160 h -3828 c -117,0 -217,-58 -275,-160 -59,-102 -59,-219 0,-321 l 1914,-3340 c 58,-102 158,-160 275,-160 117,0 217,58 275,160 z m -282,2861 c -177,0 -320,143 -320,320 0,177 143,320 320,320 177,0 320,-143 320,-320 0,-177 -143,-320 -320,-320 z m -160,-1600 c -88,0 -160,72 -160,160 v 401 c 0,55 6,102 19,155 l 126,503 c 9,37 40,61 77,61 h 196 c 37,0 68,-25 77,-61 l 126,-503 c 13,-53 19,-100 19,-155 v -401 c 0,-88 -72,-160 -160,-160 z"
+   id="curve1" />
+	
+</svg>

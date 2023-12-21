@@ -1,0 +1,49 @@
+:root {
+  --main-color: rgb(210, 115, 29);
+  --light-color: rgb(255, 229, 223);
+}
+
+.x-panel-header-title-default {
+  color: var(--main-color);
+}
+
+.x-tab.x-tab-active.x-tab-default {
+  border-color: var(--main-color);
+  background-color: var(--main-color);
+}
+
+.x-tab.x-tab-active:hover {
+  border-color: var(--light-color);
+  background-color: var(--light-color);
+}
+
+.x-tab-default:hover {
+  border-color: var(--light-color);
+  background-color: var(--light-color);
+}
+
+.x-grid-item-selected {
+  background-color: var(--main-color);
+}
+
+.x-grid-item-over {
+  background-color: var(--light-color);
+}
+
+.container-enum.standard.Bullet li.enum-element::before {
+  color: var(--main-color);
+}
+
+li.step:before,
+.container-enum > li:before {
+  color: var(--main-color);
+}
+
+.thead-Alternate1 {
+  color: var(--main-color);
+}
+
+.container {
+  padding-right: 30px;
+  padding-left: 30px;
+}

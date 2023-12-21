@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en-us" xml:lang="en-us" xmlns="">
+  <head>
+    <title>SMC</title>
+    <meta
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes"
+      name="viewport"
+    />
+    <meta content="IE=10" http-equiv="x-ua-compatible" />
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
+    <meta content="s | m | c" name="generator" />
+    <link href="resources/images/smc.ico" rel="icon" type="image/x-icon" />
+    <link
+      href="resources/images/smc.ico"
+      rel="shortcut icon"
+      type="image/x-icon"
+    />
+    <link
+      href="resources/bootstrap/bootstrap.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="resources/css/font-awesome.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="resources/css/xtheme-new.css"
+      id="ui-theme"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="resources/css/theme/theme-crisp-touch.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link href="resources/css/styles.css" rel="stylesheet" type="text/css" />
+    <link
+      href="resources/css/responsive.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="resources/css/custom-style.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+  </head>
+  <body>
+    <div class="smc-loading-mask" id="smc-system-loading-mask"></div>
+    <div class="smc-loading" id="smc-system-loading">
+      <div class="smc-loading-indicator">
+        <img
+          align="absmiddle"
+          height="32"
+          src="resources/images/blue-loading.gif"
+          style="margin-right: 8px"
+          width="32"
+        />Loading...
+      </div>
+    </div>
+    <script
+      src="resources/js/lib/jquery-3.5.1.js"
+      type="text/javascript"
+    ></script>
+    <script src="resources/js/lib/ext-all.js" type="text/javascript"></script>
+    <script
+      src="resources/js/lib/search-engine.js"
+      type="text/javascript"
+    ></script>
+    <script src="resources/js/lib/polyfill.js" type="text/javascript"></script>
+    <script src="search-db.js" type="text/javascript"></script>
+    <script
+      language="javascript"
+      src="resources/bootstrap/bootstrap.min.js"
+      type="text/javascript"
+    ></script>
+    <script src="resources/js/src/system.js" type="text/javascript"></script>
+    <script src="resources/js/src/datalink.js" type="text/javascript"></script>
+    <script src="resources/js/src/gui.js" type="text/javascript"></script>
+    <script
+      src="resources/js/src/datasource.js"
+      type="text/javascript"
+    ></script>
+    <script src="resources/js/src/util.js" type="text/javascript"></script>
+    <script src="resources/js/src/dom.js" type="text/javascript"></script>
+    <script
+      src="resources/js/src/translator.js"
+      type="text/javascript"
+    ></script>
+    <script
+      src="resources/js/src/xml-tree-loader.js"
+      type="text/javascript"
+    ></script>
+    <script src="resources/js/src/fuse.min.js" type="text/javascript"></script>
+    <script
+      src="resources/js/src/fuzzycomplete.js"
+      type="text/javascript"
+    ></script>
+    <script
+      src="resources/js/src/custom-scripts.js"
+      type="text/javascript"
+    ></script>
+    <form class="x-hidden" id="history-form">
+      <input id="x-history-field" type="hidden" />
+      <iframe id="x-history-frame"></iframe>
+    </form>
+    <script type="text/javascript">
+      Smc.System.loadDependencies(function () {
+        Ext.onReady(function () {
+          if (Smc.System)
+            Smc.System.init(window.initCallback ? window.initCallback : null);
+        });
+      });
+    </script>
+  </body>
+</html>
